@@ -4,7 +4,6 @@ public class CommitCafe {
     //Add a nickname or title for the barista
     private static String nickname = "Jace";
 
-
     private static int cups = 0;
 
     public static void brew(String drink) {
